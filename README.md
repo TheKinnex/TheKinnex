@@ -27,5 +27,3 @@
 
 
 
-<img src="https://raw.githubusercontent.com/TheKinnex/TheKinnex/output/snake.svg" alt="Snake animation" />
-
